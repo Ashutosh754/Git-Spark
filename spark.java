@@ -3,7 +3,7 @@ class spark{
         System.err.println("hello");
     }
 
-    public void m1(){
+    public void payment(){
         System.out.println("m1");
     }
 }
